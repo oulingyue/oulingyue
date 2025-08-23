@@ -2,7 +2,7 @@
 
 A bit about me: 
 My name is Grace and welcome to my GitHub.
-I am based in Boston and currently enrolled in the ALIGN masters program at Northeastern. 
+I am based in Boston and currently enrolled at Northeastern University. 
 You can find my projects here, which are mostly my projects from classes for now.
 
 - 🔭 currently working on todo list
